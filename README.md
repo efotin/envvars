@@ -20,4 +20,3 @@ val it : string = "C:\ProgramData"
 
 >
 ```
-[Usage demo](envvars/wiki/Usage)
